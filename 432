@@ -1,0 +1,35 @@
+
+<html>
+  <head>
+    <title>Airtime - Nominee as Best Site of 2012</title>
+   <meta property="og:title" content="I Voted for Airtime as The Best Site of 2012"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="http://bestof2012.allmyfaves.com/vote/site/name/airtime.com"/>
+    <meta property="og:image" content="http://www.allmyfaves.com/images/favcells/airtime.com.gif"/>
+    <meta property="og:site_name" content="All My Faves"/>
+    <meta property="fb:app_id" content="167695489924401"/>
+    <meta property="og:description" content="Airtime is nominated as the Best Site of 2012. Vote and discover the best sites of 2012 @ bestof2012.allmyfaves.com"/>
+  </head>
+  <frameset rows="44,*" frameborder="0" border="0" noresize>
+    <frame src="http://bestof2012.allmyfaves.com/vote/sitetopframe/name/" scrolling="no" frameborder="0" border="0" noresize>
+    <frame src="http://airtime.com" scrolling="auto" frameborder="0" border="0" noresize>
+  </frameset><noframes></noframes>
+
+  <body>
+  <h1>Allmyfaves contest</h1>
+  Your browser doesn't seem to support frames, but you can still access the link!<br>
+  <a href="airtime.com"> </a><br><br>
+  Enjoy, and please visit <a href="http://www.allmyfaves.com">Allmyfaves.com</a> for more fun!
+  </body>
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({
+    appId  : '167695489924401',
+    status : true, // check login status
+    cookie : true, // enable cookies to allow the server to access the session
+    xfbml  : true  // parse XFBML
+  });
+</script>
+
+</html>
